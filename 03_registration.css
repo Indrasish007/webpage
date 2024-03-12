@@ -15,7 +15,7 @@ form {
 }
 
 label {
-    display: inline-flex ;
+    display:    block;
     width: 155px;
     font-weight: bold;
 }
